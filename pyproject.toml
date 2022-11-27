@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "wrapped"
+version = "0.1.0"
+description = ""
+authors = ["Jason Antwi-Appah <hey@jasonaa.me>"]
+license = "GPL3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyflp = "v2.0.0a6"
+
+
+[tool.poetry.group.dev.dependencies]
+ipython = "^8.6.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
