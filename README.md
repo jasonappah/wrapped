@@ -25,3 +25,8 @@ another winter, another attempt at this project - open source this time, for acc
   * qt? flutter? tauri? electron? idk aaa
     * i've done a good bit of electron stuff recently so that would definitely be easy... but this fl parsing library that would make my life so so so much easier is in python so...
       * ffi? lmao
+
+
+recently saw [this wonderful twitter thread](https://twitter.com/raycastapp/status/1604868675277725697) from the team over at raycast as to how they pulled off raycast wrapped. love raycast <3
+
+i was also thinking about renaming the project to `prod.zip` or `.zip` or smth like that... thought it was a cool producer equiv to wrapped? cause you might zip up a project to send stems to someone, and you're wrapping up all the files into an archive...
