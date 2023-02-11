@@ -12,7 +12,7 @@ pyflp = "v2.0.0a6"
 
 
 [tool.poetry.group.dev.dependencies]
-ipython = "^8.6.0"
+ipython = "^8.10.0"
 
 [build-system]
 requires = ["poetry-core"]
